@@ -1,7 +1,7 @@
 # 06 Server-Side APIs: Weather Dashboard
-https://github.com/iNanzo/NMH_BCHW6
+https://github.com/iNanzo/NMH_WeatherDashboard
 
-https://inanzo.github.io/NMH_BCHW6/
+https://inanzo.github.io/NMH_WeatherDashboard/
 
 ## Acceptance Criteria
 
